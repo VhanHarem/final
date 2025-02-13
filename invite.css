@@ -1,0 +1,27 @@
+body{
+    background-color:rgb(188, 188, 241) ;
+}
+
+
+.letter{
+    margin-top: 20rem;
+    background-color: rgb(134, 159, 241);
+    font-family: "Caveat", serif;
+    font-size: 14px;
+}
+
+.loc{
+    background-color: rgb(114, 130, 202);
+    
+}
+
+#link{
+    text-decoration: none;
+    margin-left: 6rem;
+    color: rgb(140, 247, 113);
+
+}
+
+a{
+ text-decoration: none;
+}

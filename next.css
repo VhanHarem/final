@@ -1,0 +1,50 @@
+
+
+.choices{
+    margin-top: 18rem;
+    margin-left: 1.50rem;
+    width: 100vh;
+    box-sizing: border-box;
+}
+
+#h{
+    margin-left: 4rem;
+    color: rgb(10, 110, 168);
+}
+
+#v{
+    margin-left: 6rem;
+    color: rgb(228, 109, 109);
+}
+
+.button, .button2{
+    height: 5rem;
+    width: 10rem;
+    border-radius:20px; 
+    border: 0cap;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.button2{
+    transition: all 1s ease-in-out;
+}
+
+
+.button2:hover
+{
+    background-color: red;
+    color: red;
+    margin-left: 10rem;
+    
+}
+
+.button:hover{
+    transition: 1s;
+    background-color: cyan;
+}
+
+html{
+    background-color: rgb(173, 199, 233);
+}
+
+
